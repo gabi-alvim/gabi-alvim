@@ -1,26 +1,16 @@
-# Gabrielle-Alvim
+# Oiii! Eu sou a Gabi, Gabisx, Gabe :laughing:
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabi-alvim)](https://github.com/gabi-alvim)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//gabrielle-a-228329bb/)](https://www.linkedin.com/in/gabrielle-a-228329bb)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/alvimgaby)
 
-## Olá eu me chamo Gabrielle, mas podem me chamar de Gabi sou estudante de qualidade de software a famosa area conhecida como QA, espero poder contribuir com vocês
+### Um pouquinho sobre a QAzinha aqui
+Eu sou QA a quase um ano, amo automação de testes, programação, sou bem analítica, muito além de caçadora bugs, quero acrescentar de forma contínua na Qualidade de software levando soluções, dados, questionamentos e etc ... 
+Beem vindeees ao meu perfil que ainda está em construção espero poder acrescentar no cotidiano de vocês qa's, devs, POs, pessoal em transição de carreira etc ... todos que fazem parte  dessa área doída e maravilhosa que é TI :cupid: 
 
-<div align="center">
-  <a href="https://github.com/gabi-alvim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabi-alvim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-alvim&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_GBg1uRix.png">
-</div>
-  
-  ##
- 
-<div> 
- 
-  <a href="https://www.instagram.com/alvimgaby" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-</div>
+Abaixo tem um cadinho do meu trabalho, estou tentando sempre atualizar haha, mas na correria acabo esquecendo, enfim ... espero que gostem 
+
+- [Teste e2e com Playwright  - Bug Bank :money_with_wings:]( )
+- [Web site - Calculadora :1234:]( )
+- [Teste Unitário - Lista Pokemon :smirk_cat:]( )
+
